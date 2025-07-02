@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi! I'm Eoin 👋</h1>
+<h1 align="center">Hi! I'm Max Allen 👋</h1>
 
 ###
 
