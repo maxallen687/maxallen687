@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a blockchain and full-stack developer with experience in building decentralized applications, smart contracts, and integrating blockchain solutions into real-world use cases.<br><br>- 🔭 I’m working as blockchain developer and full stack. <br>- 📚 I'm currently learning AI.<br>- ⚡ In my free time I have chatting friends.</p>
+<p align="left">I'm a blockchain and full-stack developer with experience in building decentralized applications, smart contracts, and integrating blockchain solutions into real-world use cases.<br><br>- 🔭 I’m working as blockchain developer and full stack. <br>- 📚 I'm currently learning docker.<br>- ⚡ In my free time I have chatting friends.</p>
 
 ###
 
